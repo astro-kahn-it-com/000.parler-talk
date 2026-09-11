@@ -1,0 +1,5 @@
+[DESCRIPTION]
+A male body builder
+[DIALOGUE]
+Wait, don't open that door!
+

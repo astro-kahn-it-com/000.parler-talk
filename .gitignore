@@ -1,1 +1,37 @@
+# Embedded Python environment & ComfyUI portable runtime
+ComfyUI_windows_portable/
+python_embeded/
+
+# Python byte code, caches & package build artifacts
 __pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Hugging Face models, checkpoints & cache directories
+models/
+cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Rendered audio deliverables & logs
+output/
+outputs/
+*.wav
+*.mp3
+*.flac
+*.log
+
+# Windows desktop/explorer system files
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# IDE / workspace configurations
+.vscode/
+.idea/
